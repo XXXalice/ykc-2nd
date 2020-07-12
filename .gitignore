@@ -1,2 +1,4 @@
 .venv
 *.vec
+fast-text/
+.DS_Store
